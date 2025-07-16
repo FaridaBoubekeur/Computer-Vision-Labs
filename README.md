@@ -1,0 +1,1 @@
+Hands-on computer vision experiments and implementations exploring fundamental and advanced topics such as image processing, feature detection, object recognition, and machine learning-based vision tasks. Includes Python code, OpenCV workflows, and detailed lab exercises for academic or personal projects.
